@@ -1,0 +1,6 @@
+tugas git
+
+1. Buatlah repository di Github, bernama: naya-kursus
+2. Di dalam repo tersebut, buatlah folder dengan aturan nama:
+  * <minggu>-<hari>    contoh: 01-02
+  * masukkan pekerjaan pada masing-masing folder terkait
